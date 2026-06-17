@@ -1,0 +1,14 @@
+# Node
+node_modules
+.env
+
+# Local env for client
+client/.env.local
+
+# Build
+client/build
+
+# Firebase
+functions/node_modules
+
+.DS_Store
